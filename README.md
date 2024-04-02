@@ -1,2 +1,2 @@
 # mygitactions
-Practice Git Repo
+Practice Git repository
